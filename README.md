@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요. 프론트엔드;개발자 김소혜입니다.)](https://git.io/typing-svg)
+
 <h3 align="center">Tech</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -12,3 +14,4 @@
 </p>
 
  
+![xohxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=xohxe&hide=contribs,prs&show_icons=true&theme=dracula)

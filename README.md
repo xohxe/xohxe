@@ -1,4 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&duration=4000&pause=1000&color=000000&vCenter=true&multiline=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%86%8C%ED%98%9C%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&duration=4000&pause=1000&color=ABC7FF&vCenter=true&multiline=true&width=435&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%86%8C%ED%98%9C%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+
+
 <h3 align="center">Tech</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>

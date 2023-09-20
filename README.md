@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요. 프론트엔드;개발자 김소혜입니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요 프론트엔드;개발자 김소혜입니다.)](https://git.io/typing-svg)
 
 <h3 align="center">Tech</h3>
 <p align="center">
